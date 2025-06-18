@@ -2,7 +2,7 @@
  HTML/CSS Project made for Web Development Course.
  
 ### 🏁 Showcase
-![Showcase](showcase.png)
+![Showcase](showcase.PNG)
 
 ### 🏠 Home Screen
-![Home](home.png)
+![Home](home.PNG)
